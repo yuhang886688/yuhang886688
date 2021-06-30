@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yuhang Qian
+- 👋 Hi, I’m Yuhang Qian.
 - 👨‍🎓 I'm a PhD student in Epidemiology at the University of California, Los Angeles.
 - 👀 I’m interested in HIV prevention and treatment.
 - 🌱 I’m currently learning behavioral intervention and ART adherence among people with HIV.
